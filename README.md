@@ -38,7 +38,7 @@ Métriques : accuracy, F1 macro et par classe, matrice de confusion.
 ## Avancement
 
 - [x] Mise en place du dépôt, de l'environnement et des données
-- [ ] Étape 1 : exploration des données et choix du prétraitement
+- [x] Étape 1 : exploration des données et choix du prétraitement
 - [ ] Étape 2 : découpage train / validation par volontaires
 - [ ] Étape 3 : régression logistique de référence
 - [ ] Étape 4 : MLP à une couche cachée (activations, optimiseurs, pas d'apprentissage)
