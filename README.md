@@ -41,9 +41,9 @@ Métriques : accuracy, F1 macro et par classe, matrice de confusion.
 - [x] Étape 1 : exploration des données et choix du prétraitement
 - [x] Étape 2 : découpage train / validation par volontaires
 - [x] Étape 3 : régression logistique de référence
-- [ ] Étape 4 : MLP à une couche cachée (activations, optimiseurs, pas d'apprentissage)
-- [ ] Étape 5 : variabilité entre graines
-- [ ] Étape 6 : largeur et profondeur du réseau
+- [x] Étape 4 : MLP à une couche cachée (activations, optimiseurs, pas d'apprentissage)
+- [x] Étape 5 : variabilité entre graines
+- [x] Étape 6 : largeur et profondeur du réseau
 - [ ] Étape 7 : régularisation (dropout, weight decay, batch normalization, early stopping)
 - [ ] Étape 8 : courbes d'apprentissage
 - [ ] Étape 9 : évaluation sur le test et matrice de confusion
