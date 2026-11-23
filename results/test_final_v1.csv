@@ -1,0 +1,3 @@
+configuration,version,paramètres,époques,f1_cv,test_acc,test_acc_std,test_f1,test_f1_std
+"Version 1 : 1 couche (64), sans régularisation",1,36358,10.0,0.9252,0.9435357991177469,0.0033299139261206904,0.9435152963292144,0.0034843635076846676
+Régression logistique,0,3372,,,0.9555480149304377,,0.9554790467788178,
